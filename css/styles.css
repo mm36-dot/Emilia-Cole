@@ -41,3 +41,6 @@ li{
     list-style-type: decimal-leading-zero;
 }
 
+.negrita{
+    font-weight: bold;
+}
