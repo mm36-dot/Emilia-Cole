@@ -1,0 +1,22 @@
+.home{
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+li{
+    list-style-type: none;
+}
+
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:700 bold;
+  font-style: normal;
+  background-color: rgb(241, 240, 240, 0.3);
+}
+
+.worksans{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
