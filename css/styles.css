@@ -35,6 +35,7 @@ li{
     "wdth" 100;
     background-color: rgb(241, 240, 240, 0.3);
     color: darkgreen;
+    font-weight: lighter;
 }
 
 .li2{
